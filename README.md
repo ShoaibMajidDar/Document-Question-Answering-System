@@ -10,7 +10,7 @@
 ![Alt text](<Screenshot (174).png>)
 
 
-- #### After doing these step, open the terminal in the folder containing app.py and .env and type streamlit run app.py
+- #### After doing these step, open the terminal in the folder containing app.py and .env and type code(streamlit run app.py)
 ![Alt text](<Screenshot (175).png>)
 
 
