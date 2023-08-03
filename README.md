@@ -24,5 +24,5 @@
 #### Upload a PDF on the app and a chatbox will appear on the screen where you can ask any question regarding the pdf and it will answer the question.
 ![Alt text](<Screenshot (179).png>)
 
-# The app will save the embeddings of your pdf as a .pkl file in the same folder, so if you upload a pdf again it will reuse the older embeddings rather than creating a new one.
-# gpt-3.5-turbo is used as an LLM.
+### The app will save the embeddings of your pdf as a .pkl file on your system, so if you upload same PDF again it will reuse the older embeddings rather than creating a new one.
+### Also gpt-3.5-turbo is used as an LLM.
