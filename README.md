@@ -1,8 +1,9 @@
 # Document-Question-Answering-System
 To Run this app, go through the following steps:
 
-First, install all the libraries mentioned in the requirements.txt.
-![Alt text](<Screenshot (172).png>) ![Alt text](<Screenshot (173).png>)
+-First, install all the libraries mentioned in the requirements.txt.
+
+-![Alt text](<Screenshot (172).png>) ![Alt text](<Screenshot (173).png>)
 
 
 And then create a .env file and add "OPENAI_API_KEY=Your OpenAI API key"
