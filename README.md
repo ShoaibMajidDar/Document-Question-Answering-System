@@ -22,4 +22,4 @@ To Run this app, go through the following steps:
 ![Alt text](<Screenshot (176).png>)
 
 ## Upload a PDF on the app and a chatbox will appear on the screen where you can ask any question regarding the pdf and it will answer the question
-![Alt text](<Screenshot (176)-1.png>)
+![Alt text](<Screenshot (179).png>)
